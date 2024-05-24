@@ -1,0 +1,1 @@
+document.write(" A heading stating “Rules for naming JS variablesb <br> Variable names can only contain ______, ______, <br>______ and ______ <br>.For example $my_1stVariablec <br> Variables must begin with a  or. For example $name, _name or <br> nameVariable names <br> are case  Variable names should not be JS ")
